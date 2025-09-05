@@ -2,6 +2,7 @@
 -- To find the number of babies born in each region, 
 -- and also return the top 3 girl names and top 3 boy names within each region.
 
+
 -- Return the number of babies born in each of the six regions 
 -- Data cleaning and handling missing data 
 with cleaned_regions as (
@@ -20,6 +21,7 @@ sum_births_by_region as (
 select region, sum_births,
 rank() over(order by sum_births desc) as num_births_by_region
 from sum_births_by_region;
+
 
 -- Return the 3 most popular girl names and 3 most popular boy names within each region
 with cleaned_regions as (
