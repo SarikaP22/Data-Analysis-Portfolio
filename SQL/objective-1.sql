@@ -2,6 +2,7 @@
 --To see how the most popular names have changed over time, 
 --and also to identify the names that have jumped the most in terms of popularity.
 
+
 -- how the most popular names have changed over time
 with pop_3_cte as (
   -- top 3 most popular boy and girl baby names of all the time
@@ -30,7 +31,7 @@ pattern_cte as (
 )
 SELECT * 
 FROM pop_3_cte pop inner JOIN pattern_cte as pat
-on pop.name = pat.name and pop.gender = pat.gender
+on pop.name = pat.name and pop.gender = pat.gender;
 
 
 --Find the names with the biggest jumps in popularity from the first year of the data set to the last year
@@ -59,4 +60,4 @@ select * from (
   from pattern_first_year first join pattern_last_year last
   on first.name = last.name and first.gender = last.gender
 ) 
-where pop_jump <= 3
+where pop_jump <= 3;
