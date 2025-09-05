@@ -12,17 +12,21 @@ This project analyzes the "U.S. Baby Names" dataset, a comprehensive collection 
 ### Methodology
 The analysis was structured into four key objectives to explore different aspects of the dataset:
 
-#### Objective 1: 
-**Track Name Popularity:** Analyzed how the popularity of the most common names has changed over time, and identified names that experienced the biggest jumps in popularity.
+####  
+**Objective 1: Track Name Popularity -** Analyzed how the popularity of the most common names has changed over time, and identified names that experienced the biggest jumps in popularity.<br>
+[SQL for Objective-1](objective-1.sql)
 
-#### Objective 2: 
-**Compare Popularity Across Decades:** Found the most popular names for each year and for each decade to compare long-term naming trends.
+####  
+**Objective 2: Compare Popularity Across Decades -** Found the most popular names for each year and for each decade to compare long-term naming trends.<br>
+[SQL for Objective-2](objective-2.sql)
 
 #### Objective 3: 
-**Compare Popularity Across Regions:** Calculated the number of births in each of the six U.S. regions and identified the top names within each region to understand regional naming preferences.
+**Compare Popularity Across Regions:** Calculated the number of births in each of the six U.S. regions and identified the top names within each region to understand regional naming preferences.<br>
+[SQL for Objective-3](objective-3.sql)
 
 #### Objective 4: 
-**Explore Unique Names:** Identified the most popular androgynous names, and found the shortest and longest names in the dataset to explore unique naming patterns.
+**Explore Unique Names:** Identified the most popular androgynous names, and found the shortest and longest names in the dataset to explore unique naming patterns.<br>
+[SQL for Objective-4](objective-4.sql)
 <br>
 
 ### Key Findings
@@ -44,4 +48,4 @@ The analysis was structured into four key objectives to explore different aspect
 ### How to Run This Project
 **Set Up:** Navigate to the [SQLite Online website](https://sqliteonline.com/). Ensure you have tables loaded with the U.S. Baby Names data.
 
-**Execute Queries:** Open the SQL file [baby-name-tren-analysis](BabyNameTrendAnalysis.sql) on SQLite to run the queries against your database. The file is structured with comments and sections that align with the objectives outlined in this README.
+**Execute Queries:** Open the SQL file on SQLite to run the queries against your database. The file is structured with comments and sections that align with the objectives outlined in this README.
