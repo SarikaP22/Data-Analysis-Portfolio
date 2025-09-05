@@ -4,9 +4,13 @@ This project analyzes the "U.S. Baby Names" dataset, a comprehensive collection 
 <br>
 
 ### Data Source
-**Dataset:** U.S. Baby Names
+
+**Dataset:** U.S. Baby Names (2 million+ rows)
 
 **Description:** This dataset contains a record of all U.S. baby names broken down by state, gender, and birth year.
+
+**Original Source:** This project uses a publicly available dataset. You can download the complete dataset from [here](https://app.mavenanalytics.io/guided-projects/f71c0a2b-05f4-43fe-a80c-8f3f86964ccc) <br>
+**Note:** Due to the large size of the dataset, it is not included in this repository.
 <br>
 
 ### Methodology
