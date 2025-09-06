@@ -27,7 +27,7 @@ This section showcases my personal projects, demonstrating my ability to perform
 
 **Technologies Used:** SQLite
 
-**Link to Project:** [View Baby Name Trend Analysis](SQL/BabyNameTrendAnalysis.sql)
+**Link to Project:** [View Baby Name Trend Analysis](SQL/Baby-name-trend-analysis)
 
 
 ## Contact
