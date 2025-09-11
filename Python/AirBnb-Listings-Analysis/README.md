@@ -1,7 +1,10 @@
 # Airbnb Paris Listings – Basic EDA
 
 ### Quick Links:
-- Open Source code in Colab - [AirBnb-Analysis](https://colab.research.google.com/github/SarikaP22/Data-Analysis-Portfolio/blob/main/Python/AirBnb-Listings-Analysis/AirBnb-Listings-Analysis.ipynb)
+- ▶️ Notebook: [AirBnb-Listings-Analysis.ipynb](./AirBnb-Listings-Analysis.ipynb)  
+- 👀 View in NBViewer: [Click Here](https://nbviewer.org/github/SarikaP22/Data-Analysis-Portfolio/blob/main/Python/AirBnb-Listings-Analysis/AirBnb-Listings-Analysis.ipynb)
+- 🧪 Open in Colab: [Click Here](https://colab.research.google.com/github/SarikaP22/Data-Analysis-Portfolio/blob/main/Python/AirBnb-Listings-Analysis/AirBnb-Listings-Analysis.ipynb)
+
 
 ### Project Overview
 This project performs a focused exploratory analysis of **Airbnb listings in Paris**. The goal is to demonstrate an end-to-end, beginner-friendly workflow in Python—from loading and profiling the data, to preparing small summary tables for visuals, and presenting clear, lightweight findings. All work is contained in **`AirBnb-Listings-Analysis.ipynb`**.
@@ -96,7 +99,3 @@ The analysis was organized into three objectives to keep the workflow simple and
 - **Paris-only scope:** Findings are specific to Paris listings and may not generalize to other markets.
 - **Snapshot effects:** The dataset may not fully capture seasonal dynamics or the most recent pricing changes.
 - **QA assumptions:** Minor assumptions for missing values and potential outliers are documented in the notebook.
-
-### References
-- See **Data Source** above for dataset provenance.
-- See **How to Run This Project** for environment and library details.
