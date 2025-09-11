@@ -41,7 +41,7 @@ The analysis was organized into three objectives to keep the workflow simple and
   - average price by **`accommodates`** within the **most expensive neighbourhood**
 - **Line charts** for:
   - **count of new hosts** over time
-  - **average price** over time (y-axis starts at 0)
+  - **average price** over time
 - **Dual-axis line chart** showing both series together.
 - Added brief commentary on how **2015 regulations** may relate to new host counts and prices.
 <br>
