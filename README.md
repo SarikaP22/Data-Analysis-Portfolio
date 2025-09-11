@@ -30,6 +30,18 @@ This section showcases my personal projects, demonstrating my ability to perform
 **Link to Project:** [View Baby Name Trend Analysis](SQL/Baby-name-trend-analysis)
 
 
+### Python Projects
+#### Airbnb Paris Listings – Basic EDA
+
+**Description:** A focused exploratory analysis of Paris Airbnb listings—profiling data quality, preparing summary tables, and visualizing trends (avg price by neighbourhood, price by accommodates in Elysee, and new hosts/price over time).
+
+**Skills:** Data filtering, datetime parsing, groupby aggregations, basic QA (missing values), data visualization, notebook documentation
+
+**Technologies Used:** Python, pandas, numpy, matplotlib, seaborn, Jupyter Notebook
+
+**Link to Project:** [View Airbnb Paris Listings Analysis](Python/AirBnb-Listings-Analysis)
+
+
 ## Contact
 Feel free to connect with me to discuss data, technology, or potential opportunities.
 
