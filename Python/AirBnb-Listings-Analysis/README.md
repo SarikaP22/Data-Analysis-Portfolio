@@ -46,6 +46,27 @@ The analysis was organized into three objectives to keep the workflow simple and
 - Added brief commentary on how **2015 regulations** may relate to new host counts and prices.
 <br>
 
+### Results (Charts)
+
+- **Average price by neighbourhood (Paris)**
+<p align="center">
+<img src="assets/avg-price-by-neighbourhood.png" alt="Average price by neighbourhood in Paris" width="820"><br>
+<sub><em>Average prices vary across Paris; central neighbourhoods tend to be the most expensive.</em></sub>
+</p>
+  
+- **Average price by accommodates — Elysee (most expensive neighbourhood)**
+<p align="center">
+<img src="assets/avg-price-by-accommodates.png" alt="Average Price by Accommodates in Elysee" width="820"><br>
+<sub><em>Within Elysee, listings that accommodate more guests generally command higher average prices.</em></sub>
+</p>
+
+- **New Hosts and Average price by Year (Paris)**
+<p align="center">
+<img src="assets/new-hosts-and-prices-by-year.png" alt="New hosts and average price by year (Paris)" width="820"><br>
+<sub><em>Post-2015, new host counts decline while average prices level off, indicating a regulatory effect on supply and pricing.</em></sub>
+</p>
+
+
 ### Key Findings
 
 - **Regulations Impacted Growth:** Following the introduction of the **2015 regulations**, there was a noticeable decline in the **number of new hosts** entering the market. This suggests a direct correlation between the new rules and a **slower rate of market expansion**.
