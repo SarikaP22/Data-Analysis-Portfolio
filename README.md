@@ -19,27 +19,25 @@ Tools: GitHub, Jupyter Notebooks, Power BI
 This section showcases my personal projects, demonstrating my ability to perform end-to-end data analysis.
 
 ### SQL Projects
-#### Baby Name Trend Analysis
+- **Baby Name Trend Analysis**
+  **Description:** This project analyzes historical baby name data to uncover trends, identify the most popular names, and discover unique insights, such as the most androgynous names and regional naming preferences.
 
-**Description:** This project analyzes historical baby name data to uncover trends, identify the most popular names, and discover unique insights, such as the most androgynous names and regional naming preferences.
+  **Skills:** Joins, CTE's, Windows Functions, Aggregate Functions
 
-**Skills:** Joins, CTE's, Windows Functions, Aggregate Functions
+  **Technologies Used:** SQLite
 
-**Technologies Used:** SQLite
-
-**Link to Project:** [View Baby Name Trend Analysis](SQL/Baby-name-trend-analysis)
+  **Link to Project:** [View Baby Name Trend Analysis](SQL/Baby-name-trend-analysis)
 
 
 ### Python Projects
-#### Airbnb Paris Listings – Basic EDA
+- **Airbnb Paris Listings – Basic EDA**
+  **Description:** A focused exploratory analysis of Paris Airbnb listings—profiling data quality, preparing summary tables, and visualizing trends (avg price by neighbourhood, price by accommodates in Elysee, and new hosts/price over time).
 
-**Description:** A focused exploratory analysis of Paris Airbnb listings—profiling data quality, preparing summary tables, and visualizing trends (avg price by neighbourhood, price by accommodates in Elysee, and new hosts/price over time).
+  **Skills:** Data filtering, datetime parsing, groupby aggregations, basic QA (missing values), data visualization, notebook documentation
 
-**Skills:** Data filtering, datetime parsing, groupby aggregations, basic QA (missing values), data visualization, notebook documentation
+  **Technologies Used:** Python, pandas, numpy, matplotlib, seaborn, Jupyter Notebook
 
-**Technologies Used:** Python, pandas, numpy, matplotlib, seaborn, Jupyter Notebook
-
-**Link to Project:** [View Airbnb Paris Listings Analysis](Python/AirBnb-Listings-Analysis)
+  **Link to Project:** [View Airbnb Paris Listings Analysis](Python/AirBnb-Listings-Analysis)
 
 
 ## Contact
