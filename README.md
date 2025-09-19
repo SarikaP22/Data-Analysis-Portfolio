@@ -39,6 +39,17 @@ This section showcases my projects, demonstrating my ability to perform end-to-e
 
   **Link to Project:** [View Airbnb Paris Listings Analysis](Python/AirBnb-Listings-Analysis)
 
+### Power BI Projects
+
+- **LEGO Set Explorer**
+  **Description:** This interactive Power BI dashboard helps users explore LEGO products by age range, theme, price tier, and set details. It is designed for potential buyers to discover sets that match their preferences across categories and price points. The project demonstrates advanced Power BI features including data modeling, custom DAX measures, conditional formatting, tooltips, bookmarks, and page navigation.
+
+  **Skills:** Power BI, DAX Measures, Data Modeling, Interactive Dashboards, Visual Design, User Filters, Bookmarks, Slicers
+
+  **Technologies Used:** Power BI Desktop
+
+  **Link to Project:** [View LEGO Set Explorer Project](PowerBI/Lego-Explorer)
+
 
 ## Contact
 Feel free to connect with me to discuss data, technology, or potential opportunities.
