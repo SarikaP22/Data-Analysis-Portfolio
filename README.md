@@ -16,7 +16,7 @@ Tools: GitHub, Jupyter Notebooks, Power BI
 
 
 ## Portfolio Projects
-This section showcases my personal projects, demonstrating my ability to perform end-to-end data analysis.
+This section showcases my projects, demonstrating my ability to perform end-to-end data analysis.
 
 ### SQL Projects
 - **Baby Name Trend Analysis**
