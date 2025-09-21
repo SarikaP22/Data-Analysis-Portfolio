@@ -20,6 +20,7 @@ This section showcases my projects, demonstrating my ability to perform end-to-e
 
 ### SQL Projects
 - **Baby Name Trend Analysis**
+  
   **Description:** This project analyzes historical baby name data to uncover trends, identify the most popular names, and discover unique insights, such as the most androgynous names and regional naming preferences.
 
   **Skills:** Joins, CTE's, Windows Functions, Aggregate Functions
@@ -31,6 +32,7 @@ This section showcases my projects, demonstrating my ability to perform end-to-e
 
 ### Python Projects
 - **Airbnb Paris Listings – Basic EDA**
+  
   **Description:** A focused exploratory analysis of Paris Airbnb listings—profiling data quality, preparing summary tables, and visualizing trends (avg price by neighbourhood, price by accommodates in Elysee, and new hosts/price over time).
 
   **Skills:** Data filtering, datetime parsing, groupby aggregations, basic QA (missing values), data visualization, notebook documentation
@@ -42,6 +44,7 @@ This section showcases my projects, demonstrating my ability to perform end-to-e
 ### Power BI Projects
 
 - **LEGO Set Explorer**
+  
   **Description:** This interactive Power BI dashboard helps users explore LEGO products by age range, theme, price tier, and set details. It is designed for potential buyers to discover sets that match their preferences across categories and price points. The project demonstrates advanced Power BI features including data modeling, custom DAX measures, conditional formatting, tooltips, bookmarks, and page navigation.
 
   **Skills:** Power BI, DAX Measures, Data Modeling, Interactive Dashboards, Visual Design, User Filters, Bookmarks, Slicers
