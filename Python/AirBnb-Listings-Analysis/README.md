@@ -82,7 +82,7 @@ The analysis was organized into three objectives to keep the workflow simple and
 ### Technologies Used
 
 **Language:** Python  
-**Libraries:** pandas, numpy, matplotlib (and/or seaborn)  
+**Libraries:** pandas, numpy, matplotlib, seaborn
 **Environment:** Jupyter Notebook
 <br>
 
