@@ -57,5 +57,5 @@ This section showcases my projects, demonstrating my ability to perform end-to-e
 ## Contact
 Feel free to connect with me to discuss data, technology, or potential opportunities.
 
-**LinkedIn:** [@sarikapanjwani](https://www.linkedin.com/in/sarika-panjwani/) <br>
-**Email:** sarika.panjwani@gmail.com
+**LinkedIn:** [@sarikapanjwani](https://www.linkedin.com/in/sarika-panjwani/) 
+
